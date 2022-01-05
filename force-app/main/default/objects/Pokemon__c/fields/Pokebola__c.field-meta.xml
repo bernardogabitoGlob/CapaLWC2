@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Pokebola__c</fullName>
+    <externalId>false</externalId>
+    <label>Pokebola</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Poké Ball</fullName>
+                <default>false</default>
+                <label>Poké Ball</label>
+            </value>
+            <value>
+                <fullName>Super Ball</fullName>
+                <default>false</default>
+                <label>Super Ball</label>
+            </value>
+            <value>
+                <fullName>Ultra Ball</fullName>
+                <default>false</default>
+                <label>Ultra Ball</label>
+            </value>
+            <value>
+                <fullName>Master Ball</fullName>
+                <default>false</default>
+                <label>Master Ball</label>
+            </value>
+            <value>
+                <fullName>Safari Ball</fullName>
+                <default>false</default>
+                <label>Safari Ball</label>
+            </value>
+            <value>
+                <fullName>Fast Ball</fullName>
+                <default>false</default>
+                <label>Fast Ball</label>
+            </value>
+            <value>
+                <fullName>Lure Ball</fullName>
+                <default>false</default>
+                <label>Lure Ball</label>
+            </value>
+            <value>
+                <fullName>Heavy Ball</fullName>
+                <default>false</default>
+                <label>Heavy Ball</label>
+            </value>
+            <value>
+                <fullName>Level Ball</fullName>
+                <default>false</default>
+                <label>Level Ball</label>
+            </value>
+            <value>
+                <fullName>Park Ball</fullName>
+                <default>false</default>
+                <label>Park Ball</label>
+            </value>
+            <value>
+                <fullName>Moon Ball</fullName>
+                <default>false</default>
+                <label>Moon Ball</label>
+            </value>
+            <value>
+                <fullName>Friend Ball</fullName>
+                <default>false</default>
+                <label>Friend Ball</label>
+            </value>
+            <value>
+                <fullName>Love Ball</fullName>
+                <default>false</default>
+                <label>Love Ball</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
